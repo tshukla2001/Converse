@@ -14,4 +14,4 @@ Converse generates an ID, every time you refresh the page or open the website. S
 - Peerjs
 
 ##### Link to the website
-Click [here](https://converse-01.netlify.app/)
+https://converse-01.netlify.app/
