@@ -1,0 +1,12 @@
+body {
+    background: url(./Images/conversebg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
